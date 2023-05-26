@@ -24,7 +24,12 @@ To better understand our users' needs, we conducted a survey with carefully craf
 ---
 
 # Findings:
- 
+
+People interviewed were not able to accurately guage how much food they wasted, or howmuch food is wasted on average.
+They best they could to was consider a particular kind of food like cilentero or produce and guess if that food was wasted more often than necessary. It was also commented that notifications would be preferred to be kept to a minimum. Such as only notifying the user if items are likely to expire within two days, and summurizing that list once a day.  When asked why food went to waste the most common answers given was inability to accurately guage how much several people would eat, or willingness to cook after coming home.
+
+---
+
 # Prototype Iterations
 
 Initial prototype: To simplify the prototyping process, we opted to utilize Figma, a widely-used tool. We put in ideas how we thought the app might work:
@@ -78,6 +83,9 @@ User is unsure where the enter/submit button is after inputting the item informa
 User isn’t sure where to check on upcoming expiration dates for her groceries
 To address these concerns, we went back to our prototype taking into account the users’ feedback and this is how our prototype looks now:
 
+## Second Iterative Process
+![Alt Text](/images/mid_fidelity.png)
+
 ## Final Prototype
 ![Alt Text](/images/high_fidelity.png)
 
@@ -95,6 +103,8 @@ out what they have in their fridges. The users will perform the primary care as 
 to log what foods they put in their fridges. People who might not have access to food would
 also benefit from this approach as there would be a higher probability of more food available
 from less food waste.
+
+---
 
 # One Minute Pitch
 
