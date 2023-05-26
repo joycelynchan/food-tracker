@@ -21,3 +21,13 @@ To better understand our users' needs, we conducted a survey with carefully craf
    - How often would you like to be reminded?
 6. Are there any other questions you wish I would have asked?
 
+---
+
+# Findings:
+ 
+# Prototype Iterations
+
+Initial prototype: To simplify the prototyping process, we opted to utilize Figma, a widely-used tool. We put in ideas how we thought the app might work:
+![Alt Text](/images/Initial_Design.png)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FVaGDWg0rDMiSDAAKsmHUPw%2FWireframes%3Ftype%3Ddesign%26node-id%3D28-3520%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D28%253A3520" allowfullscreen></iframe>
