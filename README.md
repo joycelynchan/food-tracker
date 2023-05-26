@@ -51,19 +51,23 @@ Added a continue as guest button instead of requiring users to create an account
 # Usability study:
 
 To test the usability of our prototype, we asked some family members to complete the tasks below:
-Task 1: Add an item to the List
-● Open the app and navigate to the List page
-● Add a new item to the list, with a name and date of purchase
-● Save the item and confirm that it has been added to the list
-Task 2: Set a reminder for an expiring item
-● Navigate to the List page and find an item that will expire soon
-● Set a reminder for the item to be notified when it's about to expire
-● Confirm that the reminder has been set and check the notification settings
-Task 3: Update shopping list
-● Navigate to the List and shopping list pages
-● Update the purchase dates of items on the List
-● Remove any expired items from the List
-● Confirm that the updates have been saved and check the lists for accuracy
+
+## Task 1: Add an item to the List
+- Open the app and navigate to the List page
+- Add a new item to the list, with a name and date of purchase
+- Save the item and confirm that it has been added to the list
+
+## Task 2: Set a reminder for an expiring item
+- Navigate to the List page and find an item that will expire soon
+- Set a reminder for the item to be notified when it's about to expire
+- Confirm that the reminder has been set and check the notification settings
+
+## Task 3: Update shopping list
+- Navigate to the List and shopping list pages
+- Update the purchase dates of items on the List
+- Remove any expired items from the List
+- Confirm that the updates have been saved and check the lists for accuracy
+
 
 # Feedback:
 users struggled with adding a new item in Task 1, unsure whether to tap the "add" button or the "plus" icon
