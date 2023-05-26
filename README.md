@@ -4,3 +4,20 @@ Did you know that millions of tons of food go to waste each year, resulting in s
 
 Introducing FoodTracker, the innovative app designed to revolutionize how you manage and minimize food waste. With FoodTracker, you can effortlessly keep track of your food inventory, ensuring that nothing goes to waste. Simply add items to your digital pantry list and let FoodTracker do the rest. It intelligently monitors expiration dates and provides timely reminders that you can customize to fit your needs, so you never forget about that ripe avocado or leftover meal again. FoodTracker empowers you to make informed decisions about your food consumption, helping you save money, reduce waste, and contribute to a more sustainable future. Experience the power of FoodTracker and take control of your food management like never before.
 
+---
+
+# Initial User Research
+
+To better understand our users' needs, we conducted a survey with carefully crafted questions. This valuable data influenced our design choices for FoodTracker, ensuring it meets user preferences. Our user-centric approach guarantees a seamless and tailored experience to tackle food waste effectively.
+
+1. How much food is wasted annually by an average American household? Would you care to take a guess?
+   - Do you think you are above or below average?
+2. What do you think is the biggest contributor to food waste in your home?
+   - Are there particular items you seem to throw away the most?
+3. Have you tried any approach in reducing your food waste at home?
+4. Do you have a way of keeping track of food waste/grocery expiration dates currently?
+5. Would you like to be reminded of when things in their refrigerator will expire?
+   - How would you like to be notified?
+   - How often would you like to be reminded?
+6. Are there any other questions you wish I would have asked?
+
