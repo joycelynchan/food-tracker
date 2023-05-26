@@ -104,10 +104,4 @@ to log what foods they put in their fridges. People who might not have access to
 also benefit from this approach as there would be a higher probability of more food available
 from less food waste.
 
----
-
-# One Minute Pitch
-
-The average American wastes 200 pounds of food annually. Surely you have gotten something from the store just to throw all or most of it away a week later? Have you wanted to cook something, but forgot what is in your fridge, or what was still good to use? The 4-food-tracker app allows you to easily keep a tally of your perishable foods. Giving you a list of what will expire, when it is expected to happen, and notifying you before then. 
-You can offload your mental list of all the things stashed in your fridge to the 4-food-tracker. You won’t have to double check expiration dates, and will be able to easily see what things are ready to be put into a meal without having to survey the whole fridge. 
 
