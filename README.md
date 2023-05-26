@@ -1,2 +1,6 @@
-# csc642-milestone-4-food-tracker
-test 
+# HCI Final Project
+
+Did you know that millions of tons of food go to waste each year, resulting in significant economic losses? According to recent studies, the average American household wastes approximately 200 pounds of food annually, amounting to a staggering $1,500 worth of edible items thrown away. This alarming trend not only impacts our wallets but also places an immense strain on the environment and resources used in food production. With FoodTracker, we aim to tackle this issue head-on by empowering individuals to make more informed choices about their food consumption, reducing waste, and saving money in the process. By harnessing the power of technology, FoodTracker is revolutionizing the way we manage our food, making a positive impact on both our wallets and the planet. Together, let's take a stand against food waste and embrace a more sustainable future with FoodTracker.
+
+Introducing FoodTracker, the innovative app designed to revolutionize how you manage and minimize food waste. With FoodTracker, you can effortlessly keep track of your food inventory, ensuring that nothing goes to waste. Simply add items to your digital pantry list and let FoodTracker do the rest. It intelligently monitors expiration dates and provides timely reminders that you can customize to fit your needs, so you never forget about that ripe avocado or leftover meal again. FoodTracker empowers you to make informed decisions about your food consumption, helping you save money, reduce waste, and contribute to a more sustainable future. Experience the power of FoodTracker and take control of your food management like never before.
+
