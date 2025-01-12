@@ -8,25 +8,14 @@ Introducing FoodTracker, the innovative app designed to revolutionize how you ma
 
 # Initial User Research
 
-To better understand our users' needs, we conducted a survey with carefully crafted questions. This valuable data influenced our design choices for FoodTracker, ensuring it meets user preferences. Our user-centric approach guarantees a seamless and tailored experience to tackle food waste effectively.
-
-1. How much food is wasted annually by an average American household? Would you care to take a guess?
-   - Do you think you are above or below average?
-2. What do you think is the biggest contributor to food waste in your home?
-   - Are there particular items you seem to throw away the most?
-3. Have you tried any approach in reducing your food waste at home?
-4. Do you have a way of keeping track of food waste/grocery expiration dates currently?
-5. Would you like to be reminded of when things in their refrigerator will expire?
-   - How would you like to be notified?
-   - How often would you like to be reminded?
-6. Are there any other questions you wish I would have asked?
+Did you know that millions of tons of food go to waste each year, resulting in significant economic losses? According to recent studies, the average American household wastes approximately 200 pounds of food annually, amounting to a staggering $1,500 worth of edible items thrown away. This alarming trend not only impacts our wallets but also places an immense strain on the environment and resources used in food production. With FoodTracker, we aim to tackle this issue head-on by empowering individuals to make more informed choices about their food consumption, reducing waste, and saving money in the process. By harnessing the power of technology, FoodTracker is revolutionizing the way we manage our food, making a positive impact on both our wallets and the planet. Together, let's take a stand against food waste and embrace a more sustainable future with FoodTracker.
 
 ---
 
 # Findings:
 
-People interviewed were not able to accurately guage how much food they wasted, or howmuch food is wasted on average.
-They best they could to was consider a particular kind of food like cilentero or produce and guess if that food was wasted more often than necessary. It was also commented that notifications would be preferred to be kept to a minimum. Such as only notifying the user if items are likely to expire within two days, and summurizing that list once a day.  When asked why food went to waste the most common answers given was inability to accurately guage how much several people would eat, or willingness to cook after coming home.
+People interviewed were not able to accurately gauge how much food they wasted, or how much food is wasted on average.
+The best they could do was consider a particular kind of food like cilentro or produce and guess if that food was wasted more often than necessary. It was also commented that notifications would be preferred to be kept to a minimum. Such as only notifying the user if items are likely to expire within two days, and summarising that list once a day.  When asked why food went to waste the most common answers given was inability to accurately gauge how much several people would eat, or willingness to cook after coming home.
 
 ---
 
@@ -46,10 +35,7 @@ Initial prototype: To simplify the prototyping process, we opted to utilize Figm
 
 # Heuristic evaluation:
 
-Through a rigorous process of heuristic evaluation, we meticulously analyzed our prototype to identify areas for improvement. Taking the feedback into account, we iterated on the design, addressing usability issues and enhancing user experience. By incorporating the insights gained from the evaluation, we refined the prototype, resulting in a more intuitive and user-friendly interface.
-Edited text size and color to make it easier to view
-Removed one of the add buttons to make moving through the app easier to understand
-Added a continue as guest button instead of requiring users to create an account
+Through a rigorous process of heuristic evaluation, we meticulously analyzed our prototype to identify areas for improvement. Taking the feedback into account, we iterated on the design, addressing usability issues and enhancing user experience. By incorporating the insights gained from the evaluation, we refined the prototype, resulting in a more intuitive and user-friendly interface, edited text size and color to make it easier to view, removed one of the add buttons to make moving through the app easier to understand, and added a continue as guest button instead of requiring users to create an account.
 
 ---
 
@@ -75,12 +61,12 @@ To test the usability of our prototype, we asked some family members to complete
 
 
 # Feedback:
-users struggled with adding a new item in Task 1, unsure whether to tap the "add" button or the "plus" icon
-users had trouble finding where to set a reminder in Task 2.
-Users had trouble confirming updates were saved in Task3, realized app automatically saves changes made on List and shopping list pages
-User is not sure where to save the item and confirm that it has been added to the list
-User is unsure where the enter/submit button is after inputting the item information
-User isn’t sure where to check on upcoming expiration dates for her groceries
+- Users struggled with adding a new item in Task 1, unsure whether to tap the "add" button or the "plus" icon.
+- Users had trouble finding where to set a reminder in Task 2.
+- Users had trouble confirming updates were saved in Task3, realized app automatically saves changes made on List and shopping list pages.
+- User is not sure where to save the item and confirm that it has been added to the list.
+- User is unsure where the enter/submit button is after inputting the item information.
+- User isn’t sure where to check on upcoming expiration dates for her groceries.
 To address these concerns, we went back to our prototype taking into account the users’ feedback and this is how our prototype looks now:
 
 ## Second Iterative Process
